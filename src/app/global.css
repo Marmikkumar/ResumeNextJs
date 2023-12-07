@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-size: 1rem;
+}
+
+.resume-box{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    height: 10;
+}
+
+h1{
+    color: black;
+    font-size: 3.5rem;
+    font-weight: 600px;
+    display: flex;
+    margin: auto ;
+}
+
+.head-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 140vh;
+}
+
+.box{
+    width: 46%;
+    padding: 2%;
+}
+
+.box h3{
+    font-size: 1.3rem;
+}
+
+.box p ,ul{
+    padding-top: 0.5rem;
+}
+
+li{
+    list-style: none;
+}
+
+.project li , .list{
+    list-style: circle;
+    margin-left: 1rem;
+}
+
+spam{
+    font-weight: bold;
+}
+
+
+
